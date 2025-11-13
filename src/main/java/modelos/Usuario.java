@@ -6,7 +6,6 @@ public class Usuario extends Persona {
     private long cedula;
     private String correo;
     private long compras;
-
     public Usuario() {
     }
     
@@ -42,6 +41,16 @@ public class Usuario extends Persona {
     public void setCompras(long compras) {
         this.compras = compras;
     }
+
+    @Override
+    public String toString() {
+        return super.toString()+ "Cedula: "+getCedula()+
+                "Correo: "+getCorreo()+
+                "Compras: "+getCompras();
+        
+    }
+
+    
     
     
 }
