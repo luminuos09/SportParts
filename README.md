@@ -16,7 +16,13 @@ En este repositorio llevare a cabo la elaboracion de un programa para un proyect
 # Objetivos Genarales:
 Como bien sabemos, el negocio  a desarrollar esta aplicacion es una tienda deportiva que su principal venta en teoria son las camisetas de futbol, no obstante tambien venden algunos otros articulos como zapatillas, balones, sudaderas y todo lo relacionado a lo deportivo. Con todo esto dicho, como objetivo general de este programa seria poder administrar todas las ventas de estos productos de una manera eficiente y facil de usar, eso es debido a que muchas tiendas creadas en plataformas como shopify o wix, dejan un apartado muy dificil de comprender y eso dificulta al dueño del local poder administrar su negocio. Se sabe que existen profesionales como contadores y economistas que resuelven esa problematica, sin embargo para eso el programa debe ser facil de usar, para que el dueño del local se evite contratar un profesional de esos, y pueda o hacerlo el mismo o contratar un simple empleado que ejerza ese labor
 ## Objetivos especificos:
-1.
+1. tener un control de las ventas que se hacen al dia, semana, mes, año
+2. poder registrar clientes para posibles compras a futuro
+3. registrar a empleados para saber cuantas ventas lograron hacer
+4. con ayuda de inteligencia artificial, analizar los datos y ver que articulo se esta vendiendo mas(esto sera a futuro cuando aprenda sobre APIS y base de datos)
+
+
+
 
 
 
