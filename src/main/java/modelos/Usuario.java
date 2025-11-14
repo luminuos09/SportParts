@@ -2,7 +2,7 @@
 package modelos;
 
 
-public abstract class Usuario extends Persona {
+public  class Usuario extends Persona {
     private long compras;
     public Usuario() {
     }
