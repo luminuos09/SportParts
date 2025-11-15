@@ -1,7 +1,7 @@
 
 package modelos;
 
-
+//comentario de prueba
 public class Empleado extends Persona{
     private String contraseña;
     private String usuario;
