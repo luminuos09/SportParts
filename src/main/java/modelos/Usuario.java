@@ -23,7 +23,7 @@ public  class Usuario extends Persona {
     @Override
     public String toString() {
         return super.toString()+ 
-                "Compras: "+getCompras();
+                "\nCompras: "+getCompras();
         
     }
 

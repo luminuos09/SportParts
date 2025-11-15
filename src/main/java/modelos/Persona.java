@@ -56,8 +56,8 @@ public abstract class Persona {
     @Override
     public String toString() {
         return "Nombre: "+getNombre()+
-                "Edad: "+getEdad()+"Cedula: "+getCedula()+
-                "Correo: "+getCorreo();
+                "\nEdad: "+getEdad()+"\nCedula: "+getCedula()+
+                "\nCorreo: "+getCorreo();
     }
 
     
